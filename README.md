@@ -22,10 +22,9 @@ In conclusion, the Real-Time Chat Application for GitHub enhances communication 
 **OUTPUT**
 
 
-![Image](https://github.com/user-attachments/assets/6a118a61-a6bd-4131-ab59-f1f63916d5c7)
+![Image](https://github.com/user-attachments/assets/8d44348a-3ab3-4dfa-b262-e9b72e49ad9b)
 
 
-![Image](https://github.com/user-attachments/assets/e7b96f02-58ee-4779-a8fe-7de442322160)
 
-
+![Image](https://github.com/user-attachments/assets/fabab6f6-b70d-4ac5-bb48-737918ea35d5)
 
